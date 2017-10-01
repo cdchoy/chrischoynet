@@ -1,2 +1,2 @@
-# choy.net
+# cchoy.net
 Personal website
