@@ -1,2 +1,7 @@
 # Mac OS X Generated File
 .DS_Store
+
+# Jekyll and Gem Things
+_site
+.sass-cache
+.jekyll-metadata
