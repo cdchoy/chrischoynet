@@ -25,8 +25,7 @@ github_url: https://github.com/cchoy96/
 
 # Jekyll Build Options
 markdown: kramdown  # github pages default md syntax
-theme: minima
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
 
 exclude:
