@@ -19,7 +19,7 @@ email: cchoy@uchicago.edu
 description: >-
     Hello World! Welcome to my portfolio/CV page!
 baseurl: ""
-url: "http://www.chrischoy.net/"
+url: http://www.chrischoy.net/
 github_username: cchoy96
 github_url: https://github.com/cchoy96/
 
