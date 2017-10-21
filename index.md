@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Chris Choy - About
 permalink: {{ site.url }}
 ---
