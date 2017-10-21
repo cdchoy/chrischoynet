@@ -5,7 +5,7 @@ permalink: {{ site.url }}/resume/
 ---
 
 # Resume
-**[PDF]({{ site.includes.cchoy-resume.pdf }})**
+**[PDF]({{ site.url }}/assets/cchoy-resume.pdf)**
 ## Education
 **[University of Chicago](https://www.uchicago.edu/)**
 ## Experience
