@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Chris Choy - Resume
 permalink: /resume/
 ---

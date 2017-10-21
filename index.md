@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Chris Choy - About
 permalink: http://www.chrischoy.net
 ---
