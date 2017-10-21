@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Chris Choy - Resume
 permalink: {{ site.url }}/resume/
 ---
 
