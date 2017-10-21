@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: {{ site.url }}/about/
+permalink: /about/
 ---
 
 Christopher Choy was born in Rehoboth Beach, DE.
