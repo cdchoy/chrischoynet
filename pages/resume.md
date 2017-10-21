@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: {{ site.baseurl }}/resume/
+permalink: {{ site.url }}/resume/
 ---
 
 # Resume
