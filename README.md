@@ -1,3 +1,5 @@
-# chrischoy.net
-My Personal portfolio/CV website.  
-A constant work in progress.  
+# Christopher Choy
+Undergraduate Student at the University of Chicago
+
+
+# A Constant Work in Progress
