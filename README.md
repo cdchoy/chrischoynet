@@ -11,11 +11,11 @@ A Constant Work in Progress
     * style.scss  
 * images  
 * pages          # holds markdown files for website pages  
-  * index.md  
   * about.md  
   * resume.md  
  
-* _config.yml    # jekyll build and site variables  
+* _config.yml    # jekyll build and site variables
+* index.md       # home page
 * .gitignore  
 * 404.html  
 * CNAME          # links chrischoy.github.io to chrischoy.net  
