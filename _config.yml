@@ -1,16 +1,23 @@
 # Jekyll Build Options
 theme: jekyll-theme-minimal
-exclude:
-  -LICENSE
-  -.gitignore
-  -Gemfile
-  -Gemfile.lock
+plugins:
 
-# Site Settings 
+exclude:
+    - LICENSE
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+
+# Site Settings
 title: Christopher Choy
 email: cchoy@uchicago.edu
 description: >
-  Hello World! Welcome to my portfolio/CV page!
+    Hello World! Welcome to my portfolio/CV page!
 baseurl: ""
 url: "http://www.chrischoy.com"
 github_username: cchoy96
