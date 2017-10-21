@@ -1,5 +1,3 @@
-# Christopher Choy
-Undergraduate Student at the University of Chicago
-
-
-# A Constant Work in Progress
+# www.chrischoy.net
+My personal portfolio/CV website.  
+A Constant Work in Progress
