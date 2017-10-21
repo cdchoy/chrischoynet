@@ -10,6 +10,7 @@
 # server process.
 
 # Jekyll Build Options
+markdown: kramdown  # github pages default md syntax
 theme: jekyll-theme-minimal
 plugins:
 
