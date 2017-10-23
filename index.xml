@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction</title>
+    <title>Chris Choy</title>
     <link>http://www.chrischoy.net/</link>
-    <description>Recent content on Introduction</description>
+    <description>Recent content on Chris Choy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Oct 2017 02:21:12 -0500</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>contact</title>
+      <title>Contact</title>
       <link>http://www.chrischoy.net/contact/</link>
       <pubDate>Mon, 23 Oct 2017 02:21:12 -0500</pubDate>
       
@@ -21,12 +21,14 @@
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>http://www.chrischoy.net/about/</link>
       <pubDate>Mon, 23 Oct 2017 02:19:06 -0500</pubDate>
       
       <guid>http://www.chrischoy.net/about/</guid>
-      <description>Hello World! My name is Christopher Choy. I&amp;rsquo;m an undergraduate at the University of Chicago.</description>
+      <description>Hello World! My name is Christopher Choy. I&amp;rsquo;m a third-year Computer Science major at the University of Chicago.
+I consider myself to be a well-rounded individual that can operate well in a variety of environments. I believe my strongest points to be my organization and self-motivation. Previous employers and coworkers have praised my hardworking attitude and amicable nature.
+My coursework so far has focused on low-level programming and developing my proficiency in C.</description>
     </item>
     
   </channel>
