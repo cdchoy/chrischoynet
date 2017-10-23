@@ -3,21 +3,17 @@ My personal portfolio/CV website.
 A Constant Work in Progress
 
 ## Directory Structure
-* _includes 
-* _layouts  
-  * default.html  
-* assets  
-  * css  
-    * style.scss  
-* images  
-* pages          # holds markdown files for website pages  
+* archtypes  
+* content  
   * about.md  
+  * contact.md  
   * resume.md  
- 
-* _config.yml    # jekyll build and site variables
-* index.md       # home page
+* layouts        - Holds .html templates  
+* static         - Files that will exist in root dir of site build  
+* themes  
 * .gitignore  
-* 404.html  
-* CNAME          # links chrischoy.github.io to chrischoy.net  
-* LICENSE        # Apache 2.0 License  
-* README         # This file
+* CNAME          - links chrischoy.github.io to chrischoy.net  
+* LICENSE        - Creative License  
+* README.md      - This file  
+* config.toml    - holds site.* settings  
+* publish.sh     - script for building Hugo website  
