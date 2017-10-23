@@ -6,10 +6,21 @@
     <description>Recent content on Chris Choy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2017 02:21:12 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 17:01:09 -0500</lastBuildDate>
     
 	<atom:link href="http://www.chrischoy.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.chrischoy.net/resume/</link>
+      <pubDate>Mon, 23 Oct 2017 17:01:09 -0500</pubDate>
+      
+      <guid>http://www.chrischoy.net/resume/</guid>
+      <description> Resume PDF
+Education University of Chicago
+Experience </description>
+    </item>
     
     <item>
       <title>Contact</title>
