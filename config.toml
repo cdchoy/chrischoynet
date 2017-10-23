@@ -22,7 +22,7 @@ tagline = "Student. Programmer. Innovator." # Appears after the introduction
 introheight = "fullheight" # Input either 'medium' or 'large' or 'fullheight'
 theme = "dark" # Choose 'light' or 'dark'
 avatar = "img/profile.JPG" # Path to image in static folder eg. img/avatar.png, or comment out to remove
-email = "cchoy@uchicago.edu" # Shows in contact section, or leave blank to omit
+email = "contact@chrischoy.net" # Shows in contact section, or leave blank to omit
 localtime = true # Show your current local time in contact section
 timezone = "America/Chicago" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 dateform = "Jan 2, 2006"
@@ -49,17 +49,17 @@ sharepinterest = false
 sharegoogleplus = false
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-project1link = "#"
-project1img = "img/project1.jpg"
-project1title = "Project 1"
+project1link = "http://femmes.io/"
+project1img = "img/femmes-2.jpg"
+project1title = "FEMMES"
 
 project2link = "#"
-project2img = "img/project2.jpg"
-project2title = "Project 2"
+project2img = "img/tea-party-games.jpg"
+project2title = "Tea Party Games"
 
-project3link = "#"
-project3img = "img/project3.jpg"
-project3title = "Project 3"
+project3link = "https://csil.cs.uchicago.edu"
+project3img = "img/csil.jpg"
+project3title = "CSIL"
 
 
 # Social icons appear in introduction and contact section. Add as many more as you like.

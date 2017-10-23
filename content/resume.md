@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Resume
-[PDF]({{ site.baseurl }}/file/cchoy-resume.pdf )
+[PDF]( /file/cchoy-resume.pdf )
 ## Education
 **[University of Chicago](https://www.uchicago.edu/)**
 ## Experience
