@@ -1,6 +1,13 @@
 # Mac OS X Generated File
 .DS_Store
 
+# Hugo Things
+/static/node_modules/
+/static/sass/
+/static/gulpfile.js
+package.json
+public
+
 # Jekyll and Gem Things
 _site
 .sass-cache
