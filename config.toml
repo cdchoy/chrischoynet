@@ -1,6 +1,6 @@
 baseurl = "http://www.chrischoy.net/" # Must end with /
 languageCode = "en-us"
-title = "Introduction"
+title = "Chris Choy"
 theme = "introduction"
 enforce_ssl = false
 builddrafts = false
@@ -29,7 +29,7 @@ dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 EST"
 cachebuster = true # Add the current unix timestamp in query string for cache busting css assets
 description = "The personal webpage of Christopher Choy"
-faviconfile = "img/fav.ico"
+faviconfile = "img/favicon.ico"
 highlightjs = true # Syntax highlighting
 lang = "en"
 footertext = "© Christopher Choy 2017" #Text to show in footer (overrides default text)
@@ -66,7 +66,7 @@ project3title = "Project 3"
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-url = "https://facebook.com/"
+url = "https://www.facebook.com/chris.choy.52"
 icon = "facebook"
 
 [[params.social]]

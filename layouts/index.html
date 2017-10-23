@@ -34,14 +34,14 @@
     <div class="hero-foot {{ if .Site.Params.fadein }}fade-in three{{ end }}">
     <hr>
     <nav class="nav-center">
-        <a class="nav-item" href="#about">About</a>
+        <a class="nav-item" href="#About">About</a>
         {{ if .Site.Params.showprojects }}
-        <a class="nav-item" href="#projects">Projects</a>
+        <a class="nav-item" href="#Projects">Projects</a>
         {{ end }}
         {{ if .Site.Params.showblog }}
-        <a class="nav-item" href="#blog">Blog</a>
+        <a class="nav-item" href="#Blog">Blog</a>
         {{ end }}
-        <a class="nav-item" href="#contact">Contact</a>
+        <a class="nav-item" href="#Contact">Contact</a>
     </nav>
     <hr>
     </div><!-- Done with nav bar -->
@@ -52,7 +52,7 @@
 <div class="section no-padding {{ if .Site.Params.fadein }}fade-in three{{ end }}">
 
 <!-- Tell them all about it! -->
-<div class="section" id="about">
+<div class="section" id="About">
     <div class="container">
     <h2 class="title is-2 has-text-centered">About</h2>
 
@@ -64,7 +64,7 @@
             {{ end }}
             <div class="column markdown">
                 {{ range .Data.Pages }}
-                    {{if eq .Title "about" }}
+                    {{if eq .Title "About" }}
                             {{.Content}}
                         {{end}}
                     {{ end }}
@@ -100,12 +100,12 @@
     {{ end }}
 
 <!-- Let's chat, shall we? -->
-<div class="section" id="contact">
+<div class="section" id="Contact">
     <div class="container has-text-centered">
     <h2 class="title is-2">Contact</h2>
         <div class="markdown">
             {{ range .Data.Pages }}
-                {{if eq .Title "contact" }}
+                {{if eq .Title "Contact" }}
                         {{.Content}}
                     {{end}}
                 {{ end }}
