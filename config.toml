@@ -14,7 +14,7 @@ publishdir = "public"
 [permalinks]
 fixed = ":title/"
 blog  = "blog/:slug/"
-resume = "/resume"
+resume = "resume/"
 
 [params]
 author = "Christopher Choy" # Full name shows on blog post pages
