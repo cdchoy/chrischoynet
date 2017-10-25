@@ -17,14 +17,16 @@
         <a href="/#Projects">Projects</a>
       </span>
     {{ end }}
-    {{ if .Site.Params.showallposts }}
-      <span class="nav-item">
-        <a href="/#Blog">Back to blog</a>
-      </span>
-    {{ else }}
-      <span class="nav-item">
-        <a href="/blog">Back to blog</a>
-      </span>
+    {{ if .Site.Params.showblog }}
+        {{ if .Site.Params.showallposts }}
+          <span class="nav-item">
+            <a href="/#Blog">Back to blog</a>
+          </span>
+        {{ else }}
+          <span class="nav-item">
+            <a href="/blog">Back to blog</a>
+          </span>
+        {{ end }}
     {{ end }}
       <span class="nav-item">
         <a href="/#Contact">Contact</a>

@@ -14,11 +14,12 @@ publishdir = "public"
 [permalinks]
 fixed = ":title/"
 blog  = "blog/:slug/"
+resume = "/resume"
 
 [params]
 author = "Christopher Choy" # Full name shows on blog post pages
 firstname = "Chris" # First name shows in introduction on main page
-tagline = "Student. Programmer. Innovator." # Appears after the introduction
+tagline = "Student. Programmer. Tetris Enthusiast." # Appears after the introduction
 introheight = "fullheight" # Input either 'medium' or 'large' or 'fullheight'
 theme = "dark" # Choose 'light' or 'dark'
 avatar = "img/profile.JPG" # Path to image in static folder eg. img/avatar.png, or comment out to remove
