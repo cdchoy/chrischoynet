@@ -16,7 +16,8 @@
     <div class="hero-body">
         <div class="container has-text-centered">
             <!-- Title and tagline -->
-            <h1 class="bold-title {{ if .Site.Params.fadein }}fade-in one{{ end }}">
+            <h1 class="bold-title {{ if .Site.Params.fadein }}fade-in one{{ end }}"
+                style="color:white;">
                 {{ .Site.Params.author }}
             </h1>
             <h3 class="subtitle is-3 {{ if.Site.Params.fadein }} fade-in two{{ end }}">
@@ -38,7 +39,7 @@
         {{ if .Site.Params.showprojects }}
             <a class="nav-item" href="#Projects">Projects</a>
         {{ end }}
-        <a class="nav-item" href="/resume">Resume</a>
+        <a class="nav-item" href="#Resume">Resume</a>
         {{ if .Site.Params.showblog }}
             <a class="nav-item" href="#Blog">Blog</a>
         {{ end }}

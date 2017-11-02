@@ -77,3 +77,8 @@ icon = "github"
 [[params.social]]
 url = "https://linkedin.com/in/cchoy96"
 icon = "linkedin"
+
+# https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
