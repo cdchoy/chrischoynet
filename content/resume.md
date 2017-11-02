@@ -25,7 +25,8 @@ Discrete Mathematics
 
 
 ## Experience
-[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago
+[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago  
+Programmer, Student Office Assistant, Tutor
 
 
 ## Skills
