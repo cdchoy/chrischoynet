@@ -50,7 +50,7 @@
 </div><!-- End of top section -->
 
 <!-- Everything below fades in three! -->
-<div class="section no-padding {{ if .Site.Params.fadein }}fade-in three{{ end }}">
+<div class="section no-padding ">
 
 <!-- Tell them all about it! -->
 <div class="section" id="About">
@@ -91,13 +91,15 @@
 
 <!-- Being Resume Section -->
 <div class="section" id="Resume">
-    <h2 class="title is-2 has-text-centered">Resume</h2>
-    <div class="markdown">
-        {{ range .Data.Pages }}
-            {{if eq .Title "Resume" }}
-                    {{.Content}}
-                {{end}}
-            {{ end }}
+    <div class="container">
+        <h2 class="title is-2 has-text-centered">Resume</h2>
+        <div class="markdown">
+            {{ range .Data.Pages }}
+                {{if eq .Title "Resume" }}
+                        {{.Content}}
+                    {{end}}
+                {{ end }}
+        </div>
     </div>
 
 </div>
