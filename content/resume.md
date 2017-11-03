@@ -44,4 +44,14 @@ Secretary
 *Proficient:* Git • Atom • Sublime • Mac OS X • Google Docs, Sheets, Forms
 • Adobe Photoshop CS6 • Microsoft Word \
 *Familiar:*  Linux • Microsoft Excel \
-*Exposure:* Vim • Windows 10\
+*Exposure:* Vim • Windows 10 \
+
+## Leadership
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp; Shorey House, University of Chicago \
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;Japanese Animation Society, University of Chicago \
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Head of Modules &nbsp;&nbsp;&nbsp;&nbsp; FEMMES, University of Chicago \
+2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp; Class of 2015, Worcester Preparatory School \
+2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; Captain &nbsp;&nbsp;&nbsp;&nbsp; Varsity Tennis, Worcester Preparatory School \
+
+
+<br>

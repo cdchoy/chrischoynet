@@ -34,4 +34,5 @@ hugo
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
-echo "Run 'git push origin gh-pages' when ready."
+echo "Pushing to github"
+git push origin gh-pages
