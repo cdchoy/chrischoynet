@@ -23,15 +23,17 @@ Statistical Methods and Applications \
 Discrete Mathematics \
 
 ## Experience
-[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago  | Chicago, IL \
-Jan. 2017 - *present* | Chicago, IL \
+[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago \
 Programmer, Student Office Assistant, Tutor
+Jan. 2017 - *present* | Chicago, IL \
 
+* Utilized Ansible Roles and Playbooks to create and upkeep computer images for Mac OS X 10.10 and 10.12. \
 * Handled Mac OS X 10.11 computer images, machine backups, and gathering of lab usage statistics. \
 * Worked an average of 15 hours per week while handling student and extracurricular responsibilities. \
 
-[Premier Orthopaedics Bone & Joint Center](http://www.delawarebonecare.com/) | Lewes, DE \
-Secretary
+[Premier Orthopaedics Bone & Joint Center](http://www.delawarebonecare.com/) \
+Secretary \
+Jun 2013 - Aug 2013 | Lewes, DE \
 
 ## Skills
 ### Programming
@@ -43,7 +45,7 @@ Secretary
 ### Tools
 *Proficient:* Git • Atom • Sublime • Mac OS X • Google Docs, Sheets, Forms
 • Adobe Photoshop CS6 • Microsoft Word \
-*Familiar:*  Linux • Microsoft Excel \
+*Familiar:*  Linux • Microsoft Excel • Hugo \
 *Exposure:* Vim • Windows 10 \
 
 ## Leadership
