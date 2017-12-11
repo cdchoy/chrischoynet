@@ -6,10 +6,19 @@
     <description>Recent content on Chris Choy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2017 17:01:09 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2017 21:40:47 -0600</lastBuildDate>
     
 	<atom:link href="http://www.chrischoy.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects Class</title>
+      <link>http://www.chrischoy.net/projects-class/</link>
+      <pubDate>Wed, 22 Nov 2017 21:40:47 -0600</pubDate>
+      
+      <guid>http://www.chrischoy.net/projects-class/</guid>
+      <description>The following are all projects that I have completed as coursework at the University of Chicago. Per the University&amp;rsquo;s Academic policies, I cannot publicly post the code I have written for these projects, nor can I share it privately without my professors&amp;rsquo; explicit consent. If you would like to see the actual code I&amp;rsquo;ve written for these projects, please feel free to reach out to me and I will try to obtain my professors&amp;rsquo; consent!</description>
+    </item>
     
     <item>
       <title>Resume</title>
@@ -18,8 +27,7 @@
       
       <guid>http://www.chrischoy.net/resume/</guid>
       <description>Download: PDF [ATS-friendly]
-Education University of Chicago | Chicago, IL Bachelor of Science, Computer Science Expected June 2019 Worcester Preparatory School | Berlin, MD High School Diploma, June 2015 Coursework Operating Systems Computer Architecture Networks and Distributing Systems Statistical Methods and Applications Discrete Mathematics Experience Computer Science Instructional Laboratory, University of Chicago | Chicago, IL Jan. 2017 - present | Chicago, IL Programmer, Student Office Assistant, Tutor
- Handled Mac OS X 10.</description>
+Education University of Chicago | Chicago, IL Bachelor of Science, Computer Science Expected June 2019 Worcester Preparatory School | Berlin, MD High School Diploma, June 2015 Coursework Operating Systems Computer Architecture Networks and Distributing Systems Statistical Methods and Applications Discrete Mathematics Experience Computer Science Instructional Laboratory, University of Chicago Programmer, Student Office Assistant, Tutor Jan. 2017 - present | Chicago, IL  Utilized Ansible Roles and Playbooks to create and upkeep computer images for Mac OS X 10.</description>
     </item>
     
     <item>
