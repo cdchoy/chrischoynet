@@ -54,7 +54,7 @@ project1link = "http://femmes.io/"
 project1img = "img/femmes-2.jpg"
 project1title = "FEMMES"
 
-project2link = "#"
+project2link = "/blog"
 project2img = "img/tea-party-games.jpg"
 project2title = "Class Projects"
 
