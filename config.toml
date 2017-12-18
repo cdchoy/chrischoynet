@@ -37,7 +37,7 @@ publishdir          = "public"
     fadein       = true # Turn on/off the fade-in effect
 
     showprojects = true # Show Projects section on home page
-    showblog     = true # Show Blog section on home page
+    showblog     = false # Show Blog section on home page
     showallposts = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showlatest   = true # Show latest blog post summary
     sharebuttons = true # On post pages, show share this social buttons
