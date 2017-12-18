@@ -24,21 +24,28 @@ Discrete Mathematics \
 
 ## Experience
 [Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago \
-Programmer, Student Office Assistant, Tutor
+Programmer, Student Office Assistant, Tutor \
 Jan. 2017 - *present* | Chicago, IL \
 
-* Utilized Ansible Roles and Playbooks to create and upkeep computer images for Mac OS X 10.10 and 10.12. \
-* Handled Mac OS X 10.11 computer images, machine backups, and gathering of lab usage statistics. \
-* Worked an average of 15 hours per week while handling student and extracurricular responsibilities. \
+* Utilized Ansible automation in creating and maintaining Mac OS X 10.11 and 10.12 computer images.
+* Collaborated with peers to maintain lab machine backups and track and gather daily lab usage statistics over the course of 6 months.
+* Worked an average of 15 hours per week while handling student and extracurricular responsibilities.
+
+[Design/Her](http://femmes.io) (formerly FEMMES), University of Chicago \
+Head of Modules, Curriculum Board Member \
+Jan. 2017 - *present* | Chicago, IL \
+
+* Engaged with female middle school students by facilitating their understanding of key computer science concepts through straightforward, hands-on lessons.
+* Designed 8 stimulating weekly curricula and 5 annual capstone modules in collaboration with fellow undergraduates and university professors.
+* Reduced future gender parity and discrimination in STEM fields by giving young female students real-world skills and the inspiration to continue their studies in computer science.
 
 [Premier Orthopaedics Bone & Joint Center](http://www.delawarebonecare.com/) \
-Secretary \
 Jun 2013 - Aug 2013 | Lewes, DE \
 
 ## Skills
 ### Programming
-*Proficient:* C • LaTeX \
-*Familiar:* Python • DrRacket • Assembly • CSS • HTML \
+*Proficient:* C \
+*Familiar:* Python • DrRacket • Assembly • CSS • HTML • LaTeX\
 *Exposure:*  PHP • R • Django \
 
 
@@ -49,11 +56,11 @@ Jun 2013 - Aug 2013 | Lewes, DE \
 *Exposure:* Vim • Windows 10 \
 
 ## Leadership
-2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp; Shorey House, University of Chicago \
-2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;Japanese Animation Society, University of Chicago \
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shorey House, University of Chicago \
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Japanese Animation Society, University of Chicago \
 2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Head of Modules &nbsp;&nbsp;&nbsp;&nbsp; FEMMES, University of Chicago \
-2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp; Class of 2015, Worcester Preparatory School \
-2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; Captain &nbsp;&nbsp;&nbsp;&nbsp; Varsity Tennis, Worcester Preparatory School \
+2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class of 2015, Worcester Preparatory School \
+2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; Captain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Varsity Tennis, Worcester Preparatory School \
 
 
 <br>
