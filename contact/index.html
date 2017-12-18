@@ -14,10 +14,10 @@
 <title>
 
 
-     404 Page not found 
+     Contact 
 
 </title>
-<link rel="canonical" href="">
+<link rel="canonical" href="http://www.chrischoy.net/contact/">
 
 
 
@@ -57,8 +57,6 @@
 
 
 
-  <link href="http://www.chrischoy.net/index.xml" rel="alternate" type="application/rss+xml" title="Chris Choy" />
-
 
 
 </head>
@@ -67,16 +65,20 @@
   
 
 <div class="section" id="top">
+    
 
-    <div class="container hero is-medium has-text-centered  fade-in one ">
-    <h1 class="bold-title is-1">404</h1>
+    <div class="container hero  fade-in one ">
+        
+        <h1 class="bold-title is-1">Contact</h1>
     </div>
+    
 
+    
+    <div class="section  fade-in two ">
 
-<div class="section  fade-in two ">
-
-    <div class="container">
-    <hr>
+        <div class="container">
+            
+            <hr>
 <nav class="nav nav-center">
     <span id="nav-toggle" class="nav-toggle"  onclick="document.getElementById('nav-menu').classList.toggle('is-active');">
       <span></span>
@@ -108,14 +110,31 @@
 </nav>
 <hr>
 
-    </div>
+        </div>
+        
 
-    <div class="container  fade-in two  top-pad">
-        Oops! Either you've found a bug (in which case, <a href="mailto:contact@chrischoy.net">please tell me</a>) or you're just making things up. This page doesn't exist!
-    </div>
+        <div class="container markdown  fade-in two  top-pad">
+            
+             
+            
+            <p>Feel free to reach out to me!</p>
 
-<div class="top-pad"><hr></div>
-<div class="section" id="footer">
+        </div>
+        
+
+        <div class="disqus">
+            
+        </div>
+
+        <div class="container has-text-centered top-pad">
+            <hr>
+            <a href="http://www.chrischoy.net/contact/#top">
+                <i class="fa fa-arrow-up"></i>
+            </a>
+            <hr>
+        </div>
+
+        <div class="section" id="footer">
     <div class="container has-text-centered">
         
             © Christopher Choy 2017
@@ -123,4 +142,21 @@
     </div>
 </div>
 
+    </div>
+    
 </div>
+
+
+
+<script>
+    $('a[href^="http:\/\/www.chrischoy.net\/contact\/#"]').click(function (e) {
+        e.preventDefault();
+        var target = this.hash;
+        $('html, body').animate({
+            scrollTop: $(target).offset().top
+        }, 500);
+        return false;
+    })
+</script>
+
+</body>
