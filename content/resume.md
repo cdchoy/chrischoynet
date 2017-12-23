@@ -4,7 +4,7 @@ date: 2017-10-23T17:01:09-05:00
 draft: false
 ---
 
-Download: [PDF]( /file/cchoy-resume.pdf )  [ATS-friendly Version]( /file/cchoy-resume-ATS.pdf )
+Download: \[ [PDF]( /file/cchoy-resume.pdf ) \]  \[ [ATS-friendly Version]( /file/cchoy-resume-ATS.pdf ) \]
 
 ## Education
 **[University of Chicago](https://www.uchicago.edu/)** | Chicago, IL \
@@ -15,7 +15,7 @@ Expected June 2019 \
 **[Worcester Preparatory School](https://worcesterprep.org/)** | Berlin, MD \
 *High School Diploma*, June 2015  \
 
-#### Coursework
+#### Coursework Highlights
 Operating Systems \
 Computer Architecture \
 Networks and Distributing Systems \
