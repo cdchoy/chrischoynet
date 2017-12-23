@@ -16,6 +16,9 @@ then
     exit 1;
 fi
 
+echo "Pulling gh-pages."
+git pull
+
 echo "Deleting old publication"
 rm -rf public
 mkdir public
@@ -35,5 +38,4 @@ echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
 echo "Pushing to github"
-git pull
 git push origin gh-pages
