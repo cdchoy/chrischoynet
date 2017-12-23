@@ -4,7 +4,7 @@ date: 2017-10-23T17:01:09-05:00
 draft: false
 ---
 
-Download: [PDF]( /file/cchoy-resume.pdf ) [ATS-friendly]
+Download: [PDF]( /file/cchoy-resume.pdf )  [ATS-friendly Version]( /file/cchoy-resume-ATS.pdf )
 
 ## Education
 **[University of Chicago](https://www.uchicago.edu/)** | Chicago, IL \
