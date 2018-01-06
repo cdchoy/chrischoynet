@@ -4,7 +4,7 @@ date: 2017-10-23T17:01:09-05:00
 draft: false
 ---
 
-Download: \[ [PDF]( /file/cchoy-resume.pdf ) \]  \[ [ATS-friendly Version]( /file/cchoy-resume-ATS.pdf ) \]
+##### Download: \[<a href="/file/cchoy-resume.pdf" target="_blank"_>PDF</a>\] \[<a href="/file/cchoy-resume-ATS.pdf" target="_blank"_>ATS-friendly Version</a>\]   
 
 ## Education
 **[University of Chicago](https://www.uchicago.edu/)** | Chicago, IL \
@@ -58,9 +58,11 @@ Jun 2013 - Aug 2013 | Lewes, DE \
 ## Leadership
 2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shorey House, University of Chicago \
 2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Vice President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Japanese Animation Society, University of Chicago \
-2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Head of Modules &nbsp;&nbsp;&nbsp;&nbsp; FEMMES, University of Chicago \
+2017-2018 &nbsp;&nbsp;&nbsp;&nbsp; Head of Modules &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FEMMES, University of Chicago \
 2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; President &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class of 2015, Worcester Preparatory School \
 2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; Captain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Varsity Tennis, Worcester Preparatory School \
+
+## Interests
 
 
 <br>

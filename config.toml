@@ -22,7 +22,7 @@ publishdir          = "public"
     tagline      = "Student. Programmer. Tetris Enthusiast." # Appears after the introduction
     introheight  = "fullheight" # Input either 'medium' or 'large' or 'fullheight'
     theme        = "dark" # Choose 'light' or 'dark'
-    avatar       = "img/profile.JPG" # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    avatar       = "img/profile2.JPEG" # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email        = "contact@chrischoy.net" # Shows in contact section, or leave blank to omit
     localtime    = true # Show your current local time in contact section
     timezone     = "America/Chicago" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -51,11 +51,11 @@ publishdir          = "public"
     # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
     project1link  = "http://femmes.io/"
     project1img   = "img/femmes-2.jpg"
-    project1title = "FEMMES"
+    project1title = "Design/Her"
 
-    project2link  = "/blog"
+    project2link  = "http://cchoy.net/"
     project2img   = "img/tea-party-games.jpg"
-    project2title = "Class Projects"
+    project2title = "Winter Care Package Website"
 
     project3link  = "https://csil.cs.uchicago.edu"
     project3img   = "img/csil.jpg"
