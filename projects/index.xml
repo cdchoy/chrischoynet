@@ -17,7 +17,8 @@
       <pubDate>Mon, 18 Dec 2017 12:29:35 -0500</pubDate>
       
       <guid>http://www.chrischoy.net/projects/pintos/</guid>
-      <description>#PintOS Pintos is a simple instructional operating system originally designed Ben Ptaff in 2004.</description>
+      <description>#PintOS Pintos is a simple instructional operating system originally designed Ben Ptaff in 2004. For my Operating Systems class project, I worked with my project partner, Ben Weinshel, to implement key OS features that were purposefully absent or poorly implemented in the base version of Pintos.
+Part 1: Scheduling and Priority Donation Part 2: System Calls Part 3: Virtual Memory Part 4: File System Management Disclaimer Due to the University of Chicago&amp;rsquo;s Academic Honesty Policy, I may not publicly post any of the code I wrote for this class without my instructor&amp;rsquo;s consent.</description>
     </item>
     
   </channel>

@@ -17,7 +17,8 @@
       <pubDate>Mon, 18 Dec 2017 12:29:35 -0500</pubDate>
       
       <guid>http://www.chrischoy.net/projects/pintos/</guid>
-      <description>#PintOS Pintos is a simple instructional operating system originally designed Ben Ptaff in 2004.</description>
+      <description>#PintOS Pintos is a simple instructional operating system originally designed Ben Ptaff in 2004. For my Operating Systems class project, I worked with my project partner, Ben Weinshel, to implement key OS features that were purposefully absent or poorly implemented in the base version of Pintos.
+Part 1: Scheduling and Priority Donation Part 2: System Calls Part 3: Virtual Memory Part 4: File System Management Disclaimer Due to the University of Chicago&amp;rsquo;s Academic Honesty Policy, I may not publicly post any of the code I wrote for this class without my instructor&amp;rsquo;s consent.</description>
     </item>
     
     <item>
@@ -35,8 +36,7 @@
       <pubDate>Mon, 23 Oct 2017 17:01:09 -0500</pubDate>
       
       <guid>http://www.chrischoy.net/resume/</guid>
-      <description>Download: [ PDF ] [ ATS-friendly Version ]
-Education University of Chicago | Chicago, IL Bachelor of Science, Computer Science Expected June 2019 Worcester Preparatory School | Berlin, MD High School Diploma, June 2015 Coursework Highlights Operating Systems Computer Architecture Networks and Distributing Systems Statistical Methods and Applications Discrete Mathematics Experience Computer Science Instructional Laboratory, University of Chicago Programmer, Student Office Assistant, Tutor Jan. 2017 - present | Chicago, IL  Utilized Ansible automation in creating and maintaining Mac OS X 10.</description>
+      <description>Download: [PDF] [ATS-friendly Version] Education University of Chicago | Chicago, IL Bachelor of Science, Computer Science Expected June 2019 Worcester Preparatory School | Berlin, MD High School Diploma, June 2015 Coursework Highlights Operating Systems Computer Architecture Networks and Distributing Systems Statistical Methods and Applications Discrete Mathematics Experience Computer Science Instructional Laboratory, University of Chicago Programmer, Student Office Assistant, Tutor Jan. 2017 - present | Chicago, IL  Utilized Ansible automation in creating and maintaining Mac OS X 10.</description>
     </item>
     
     <item>
