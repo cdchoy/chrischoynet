@@ -63,6 +63,6 @@ Jun 2013 - Aug 2013 | Lewes, DE \
 2014-2015 &nbsp;&nbsp;&nbsp;&nbsp; Captain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Varsity Tennis, Worcester Preparatory School \
 
 ## Interests
-
+Kendo • Tennis • Soccer • Smash 4 • Guitar • Animation • Computer Graphics • East Asian Languages & History
 
 <br>
