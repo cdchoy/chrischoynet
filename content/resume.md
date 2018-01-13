@@ -31,7 +31,7 @@ Jan. 2017 - *present* | Chicago, IL \
 * Collaborated with peers to maintain lab machine backups and track and gather daily lab usage statistics over the course of 6 months.
 * Worked an average of 15 hours per week while handling student and extracurricular responsibilities.
 
-[Design/Her](http://femmes.io) (formerly FEMMES), University of Chicago \
+[compileHer](http://femmes.io) (formerly FEMMES), University of Chicago \
 Head of Modules, Curriculum Board Member \
 Jan. 2017 - *present* | Chicago, IL \
 
@@ -45,7 +45,7 @@ Jun 2013 - Aug 2013 | Lewes, DE \
 ## Skills
 ### Programming
 *Proficient:* C \
-*Familiar:* Python • DrRacket • Assembly • CSS • HTML • LaTeX\
+*Familiar:* Python • C++ • Java • DrRacket • Assembly • CSS • HTML • LaTeX\
 *Exposure:*  PHP • R • Django \
 
 
