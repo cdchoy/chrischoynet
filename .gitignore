@@ -12,3 +12,8 @@ public
 _site
 .sass-cache
 .jekyll-metadata
+
+# Secure Things
+/static/records/
+cert.csr
+privkey.pem
