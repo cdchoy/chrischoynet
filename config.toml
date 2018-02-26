@@ -66,10 +66,6 @@ publishdir          = "public"
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url  = "https://www.facebook.com/chris.choy.52"
-    icon = "facebook"
-
-[[params.social]]
     url  = "https://github.com/cchoy96"
     icon = "github"
 
