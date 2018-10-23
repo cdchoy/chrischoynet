@@ -49,11 +49,11 @@ publishdir          = "public"
     sharegoogleplus = false
 
     # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-    project1link  = "http://femmes.io/"
-    project1img   = "img/femmes-2.jpg"
+    project1link  = "http://compileher.com/"
+    project1img   = "img/compileher.jpg"
     project1title = "compileHer"
 
-    project2link  = "http://cchoy.net/"
+    project2link  = "http://uchicagowintercare.com/"
     project2img   = "img/tea-party-games.jpg"
     project2title = "Winter Care Package Website"
 
