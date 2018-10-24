@@ -39,5 +39,5 @@ cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)
 # echo "Pushing to github"
 git push origin gh-pages
 
-echo "\n\nPublish Complete. Update the Custom Domain field in the Repo Settings."
-echo "https://github.com/cchoy96/chrischoy.github.io/settings"
+echo "\n\nPublish Complete. Update the Custom Domain field in the Repo Settings:"
+echo "https://github.com/cchoy96/chrischoy.github.io/settings\n"
