@@ -24,7 +24,7 @@ Operating Systems\
 Usable Security and Privacy
 
 ## Experience
-[GlobalFoundries](https://www.globalfoundries.com/) \
+**[GlobalFoundries](https://www.globalfoundries.com/)** \
 Big Data Analytics + Automation Intern \
 Jun. - Sept. 2018 | Malta, NY \
 
@@ -32,14 +32,14 @@ Jun. - Sept. 2018 | Malta, NY \
 * Automated processes using Streamsets, Python, Kubernetes, and Docker to ensure Quality of Service for clusters streaming over 500GB/day of data into a data lake.
 * Created previously unavailable visualizations of large datasets for impact and failure analysis of repeatedly cancelled wafer operations using Apache Spark and Jupyter Notebook.
 
-[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu), University of Chicago \
+**[Computer Science Instructional Laboratory](https://csil.cs.uchicago.edu)**, University of Chicago \
 Programmer, Student Office Assistant, Tutor \
 Jan. 2017 - *present* | Chicago, IL \
 
 * Generated and maintained Mac OS X computer images using Ansible automation to ensure integrity and uniformity across 50 lab machines on a daily basis.
 * Collaborated with peers to program software critical for administrative tasks such as machine backups, server resource allocations, and generating usage statistics for 4 labs with up to 100 concurrent users.
 
-[compileHer](http://compileher.com), University of Chicago \
+**[compileHer](http://compileher.com)**, University of Chicago \
 Head of Modules, Curriculum Board Member \
 Jan. 2017 - *present* | Chicago, IL \
 
@@ -48,24 +48,27 @@ Jan. 2017 - *present* | Chicago, IL \
 * Reduced future gender parity and discrimination in STEM fields by giving young female students real-world skills and the inspiration to continue their studies in computer science.
 
 ## Projects
-<a href="/file/cchoy-resume.pdf" target="_blank"_>Spamalot II: Spam Bothers Me</a>\
+**<a href="/file/cchoy-resume.pdf" target="_blank"_>Spamalot II: Spam Bothers Me</a>**\
 Spring 2018
 
 * Scientific paper detailing a pilot study for further research into human-defined, machine learning classifiers that would improve email spam filters.
 * Built a dynamic survey that interacted with Gmail’s API to securely pull and display random emails from participants’ inboxes.
 
-[Music-Driven Workout App](https://github.com/ama291/Music-Driven-Workout-App)\
+**[Music-Driven Workout App](https://github.com/ama291/Music-Driven-Workout-App)**\
 Winter 2018
 
 * Worked on a team of 8 students for 6 weeks to deliver an iOS application that recognizes a user’s
 exercise rhythm and builds a Spotify playlist with songs to match that rhythm.
-* Created the front-end interface and server API using Swift, Python, Flask, Xcode, and Digital Ocean.
+* Created the front-end interface and server API using Swift, Python, Flask, Xcode, and Digital Ocean.  
 
-PintOS \
-Autumn 2017
+
+<p></p>
+<strong style="color:#ed6a5a;">PintOS</strong>  
+<p style="color:#d9d9d9;">Autumn 2017</p>
+
 * Built a “pint-sized” operating system using C to implement key features on top of an instructional
 operating system framework that improved the code’s performance and reliability.
-* **Implementation Highlights**: thread priority donation, virtual memory, system calls, separation of user
+* *Implementation Highlights*: thread priority donation, virtual memory, system calls, separation of user
 and kernel space, and a better file system.
 
 ## Skills

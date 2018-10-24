@@ -5,7 +5,7 @@ draft: false
 ---
 
 Hello World! My name is Christopher Choy. I'm a third-year Computer Science major
-at the *[University of Chicago](https://uchicago.edu)*.  
+at *[The University of Chicago](https://uchicago.edu)*.  
 <br>
 I consider myself to be a well-rounded individual that can operate well in a variety of environments. I believe my strongest points to be my organization and self-motivation. Previous employers and coworkers have praised my hardworking attitude and amicable nature.  
 <br>
