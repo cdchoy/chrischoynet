@@ -4524,7 +4524,7 @@ img{
 	vertical-align:baseline
 }
 .markdown p{
-	color:#bfbfbf;  /* added */
+	color:#cccccc;  /* added */
 	margin-bottom:1em
 }
 .markdown h1{
@@ -4580,7 +4580,7 @@ img{
 	list-style:none
 }
 .markdown li{
-	color:#bfbfbf;  /* added */
+	color:#cccccc;  /* added */
 	list-style-type:disc;
 	margin-left:1.5em;
 	list-style-position:outside;
@@ -4614,7 +4614,6 @@ img{
 	color:#7a7a7a;
 	border-left:.25rem solid #e5e5e5;
 	margin-bottom:0;
-	color:#bfbfbf;  /* added */
 }
 .markdown table{
 	margin:2em 0 2em 0;
