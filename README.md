@@ -17,3 +17,10 @@ A Constant Work in Progress
 * README.md      - This file  
 * config.toml    - holds site.* settings  
 * publish.sh     - script for building Hugo website  
+
+## Usage 
+First, ensure hugo is installed with `$ hugo version`. If not, you can install it with `$ brew install hugo`. 
+
+To run the server locally, `$ hugo server -D`.
+
+Once your changes are finalized, merge them to master and run the `publish.sh` script.

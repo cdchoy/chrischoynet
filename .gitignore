@@ -17,3 +17,6 @@ _site
 /static/records/
 cert.csr
 privkey.pem
+
+# IDE
+.idea
