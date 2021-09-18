@@ -2,7 +2,7 @@
 .DS_Store
 
 # Hugo Things
-/static/_gen/
+resources
 public
 
 # Secure Things
