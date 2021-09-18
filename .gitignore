@@ -2,16 +2,8 @@
 .DS_Store
 
 # Hugo Things
-/static/node_modules/
-/static/sass/
-/static/gulpfile.js
-package.json
+/static/_gen/
 public
-
-# Jekyll and Gem Things
-_site
-.sass-cache
-.jekyll-metadata
 
 # Secure Things
 /static/records/
