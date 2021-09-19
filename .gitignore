@@ -4,6 +4,7 @@
 # Hugo Things
 resources
 public
+node_modules/
 
 # Secure Things
 /static/records/
