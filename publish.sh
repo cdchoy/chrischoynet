@@ -5,9 +5,7 @@
 # The website pulls from our gh-pages branch to build itself.
 # Christopher Choy 2017
 
-DIR=~/chrischoy.github.io/
-
-cd $DIR/
+cd "$(dirname "$0")"
 
 if [[ $(git status -s) ]]
 then
