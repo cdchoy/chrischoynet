@@ -31,7 +31,7 @@ git worktree add -B gh-pages public origin/gh-pages
 rm -rf public/*
 
 # echo "Generating site"
-hugo
+hugo --gc --minify
 
 # echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"

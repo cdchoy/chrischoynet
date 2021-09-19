@@ -1,0 +1,23 @@
+{
+  "name": "chrischoynet",
+  "version": "1.0.0",
+  "description": "My personal website.   A Constant Work in Progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchoy96/chrischoynet.git"
+  },
+  "author": "Chris Choy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchoy96/chrischoynet/issues"
+  },
+  "homepage": "https://github.com/cchoy96/chrischoynet#readme",
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss-cli": "^8.3.1"
+  }
+}
