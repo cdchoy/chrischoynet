@@ -26,6 +26,6 @@ To run the server locally, `$ hugo server -D`.
 Once your changes are finalized, merge them to master and run the `publish.sh` script.
 
 ## Development Notes
-Reference [gohugo.io](https://gohugo.io/getting-started/quick-start/) and [Introduction Theme](https://themes.gohugo.io/themes/hugo-theme-introduction/) for refresher on configuring website content.
+Reference [gohugo.io](https://gohugo.io/getting-started/quick-start/) and [Introduction Theme](https://themes.gohugo.io/themes/hugo-theme-introduction/) for refresher on configuring website content. For deployment, see [Hosting with Github](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
 
 This is the light theme background-color I prefer over the default: #F9FBFF. You can edit this in `themes/introduction/assets/sass/_light-variables.sass:$background`.
